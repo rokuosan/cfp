@@ -1,0 +1,13 @@
+.col-md-12 col-lg-5 offset-lg-1 a:hover {
+  /*color: white;*/
+  /*font-size: 1.1em;*/
+}
+
+#blog:hover {
+  color: white;
+}
+
+#blog a {
+  color: white;
+}
+
